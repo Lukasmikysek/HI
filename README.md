@@ -21,5 +21,5 @@
 *LFC*
 
 
-# Shrnut9
+# Shrnutí
 <p> Liverpool FC je jeden z nejlepších klubů na světě </p>
