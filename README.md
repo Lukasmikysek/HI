@@ -19,3 +19,7 @@
 <strong>fotbal je best sport</strong>
 <br>
 *LFC*
+
+
+# Shrnut9
+<p> Liverpool FC je jeden z nejlepších klubů na světě </p>
