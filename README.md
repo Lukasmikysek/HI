@@ -1,4 +1,4 @@
 # Fotbal
 <p> o fotbale <p>
 
-![Popis obrázku](cesta/k/obrazku.png)
+![The Kop](image/TheKop.jpg)
