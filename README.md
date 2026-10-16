@@ -1,4 +1,4 @@
 # Fotbal
 <p> o fotbale <p>
 
-![The Kop]()
+![The Kop](image/The Kop.jpg)
